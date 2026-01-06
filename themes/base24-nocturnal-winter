@@ -1,0 +1,18 @@
+[global]
+frame_color = "#dcdcdc"
+separator_color = "#dcdcdc"
+
+[base16_low]
+    msg_urgency = "low"
+    background = "#4c4c4c"
+    foreground = "#9e9e9e"
+
+[base16_normal]
+    msg_urgency = "normal"
+    background = "#7f7f7f"
+    foreground = "#dcdcdc"
+
+[base16_critical]
+    msg_urgency = "critical"
+    background = "#f12d52"
+    foreground = "#fbfbfb"
