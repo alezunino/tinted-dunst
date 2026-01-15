@@ -10,7 +10,7 @@ separator_color = "#599cab"
 [base16_normal]
     msg_urgency = "normal"
     background = "#091f2e"
-    foreground = "#599cab"
+    foreground = "#99d1ce"
 
 [base16_critical]
     msg_urgency = "critical"
