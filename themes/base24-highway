@@ -5,7 +5,7 @@ separator_color = "#c8c5c4"
 [base16_low]
     msg_urgency = "low"
     background = "#000000"
-    foreground = "#807672"
+    foreground = "#c8c5c4"
 
 [base16_normal]
     msg_urgency = "normal"
