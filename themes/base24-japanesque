@@ -9,8 +9,8 @@ separator_color = "#d0d2ce"
 
 [base16_normal]
     msg_urgency = "normal"
-    background = "#585a58"
-    foreground = "#f9faf6"
+    background = "#80827f"
+    foreground = "#b1b5ae"
 
 [base16_critical]
     msg_urgency = "critical"
